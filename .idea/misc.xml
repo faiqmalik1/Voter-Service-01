@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/../../api-gateway voting/API-Gateway-01/pom.xml" />
+        <option value="$PROJECT_DIR$/../../common-service/Common-Service-01/pom.xml" />
+        <option value="$PROJECT_DIR$/../../constituency-service/Constituency-Service-01/pom.xml" />
+        <option value="$PROJECT_DIR$/../../eureka-service/Eureka-Service-01/pom.xml" />
+        <option value="$PROJECT_DIR$/../../frontend-service/Frontend-service-01/pom.xml" />
+        <option value="$PROJECT_DIR$/../../user-candidate/Candidate-Service-01/pom.xml" />
+        <option value="$PROJECT_DIR$/../../user-service/User-Service-01/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_20" default="true" project-jdk-name="20" project-jdk-type="JavaSDK" />
+</project>

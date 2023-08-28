@@ -1,0 +1,14 @@
+com/votingsystem/voterservice/config/ModelMapperConfig.class
+com/votingsystem/voterservice/repository/VoterRepository.class
+com/votingsystem/voterservice/service/VotesService.class
+com/votingsystem/voterservice/model/Votes.class
+com/votingsystem/voterservice/service/VoterService.class
+com/votingsystem/voterservice/controller/VoteController.class
+com/votingsystem/voterservice/feignController/CandidateController.class
+com/votingsystem/voterservice/model/Voter.class
+com/votingsystem/voterservice/feignController/UserController.class
+com/votingsystem/voterservice/controller/VoterController.class
+com/votingsystem/voterservice/feignController/ConstituencyController.class
+com/votingsystem/voterservice/resources/ModelToResponse.class
+com/votingsystem/voterservice/VoterServiceApplication.class
+com/votingsystem/voterservice/repository/VotesRepository.class

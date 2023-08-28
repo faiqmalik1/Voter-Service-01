@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="eureka-service" />
+        <module name="user-candidate" />
+        <module name="constituency-service" />
+        <module name="common-service" />
+        <module name="api-gateway" />
+        <module name="user-service" />
+        <module name="frontend-service" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="voter-service" target="17" />
+      <module name="voter-service (1)" target="17" />
+      <module name="voter-service (2)" target="17" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="api-gateway" options="-parameters" />
+      <module name="constituency-service" options="-parameters" />
+      <module name="eureka-service" options="-parameters" />
+      <module name="frontend-service" options="-parameters" />
+      <module name="user-candidate" options="-parameters" />
+      <module name="user-service" options="-parameters" />
+      <module name="voter-service" options="-parameters" />
+      <module name="voter-service (1)" options="-parameters" />
+      <module name="voter-service (2)" options="-parameters" />
+    </option>
+  </component>
+</project>
